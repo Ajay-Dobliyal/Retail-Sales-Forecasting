@@ -28,7 +28,8 @@ Step 06: Hyperparameter Fine Tunning: hoose the best values for each of the para
 
 Step 07: Convert Model Performance to Business Values: Convert the performance of the Machine Learning model into a business result.
 
-**Exploratory Data Analysis**
+****Exploratory Data Analysis****
+
 
 
 ![image](https://github.com/user-attachments/assets/e5adc3b1-f5cc-4e70-a33a-35d938a33b5c)
